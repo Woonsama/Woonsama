@@ -137,6 +137,20 @@ float3 Woonsama(float2 uv)
 
 <br/>
 
+<img src="assets/banner_ai.svg" width="100%" alt="ai" />
+
+<br/>
+
+<div align="center">
+
+<img src="assets/multigame_opus.gif" width="480" alt="Multiplayer Game Dev with Opus 5.5" />
+
+<sub>🤖 <b>Multiplayer Game Dev with Opus 5.5</b> · 2× speed</sub>
+
+</div>
+
+<br/>
+
 <img src="assets/banner_toolbox.svg" width="100%" alt="toolbox" />
 
 <br/>

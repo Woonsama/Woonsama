@@ -137,6 +137,20 @@ float3 Woonsama(float2 uv)
 
 <br/>
 
+<img src="assets/banner_ai.svg" width="100%" alt="ai" />
+
+<br/>
+
+<div align="center">
+
+<img src="assets/multigame_opus.gif" width="480" alt="Opus5.5를 이용한 멀티게임개발" />
+
+<sub>🤖 <b>Opus5.5를 이용한 멀티게임개발</b> · 2배속</sub>
+
+</div>
+
+<br/>
+
 <img src="assets/banner_toolbox.svg" width="100%" alt="toolbox" />
 
 <br/>
