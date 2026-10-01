@@ -105,8 +105,8 @@ float3 Woonsama(float2 uv)
 
 <table>
   <tr>
-    <td align="center" valign="middle"><img src="assets/work_01.gif" width="420" alt="F35-B" /><br/><sub>🎞️ <b>F35-B</b></sub></td>
-    <td align="center" valign="middle"><img src="assets/work_02.gif" width="330" alt="EVE Dummy rig test" /><br/><sub>🦴 <b>EVE Dummy</b> · Maya Rig (FK / IK)</sub></td>
+    <td align="center" valign="middle"><img src="assets/work_01.gif" width="400" alt="F35-B" /><br/><sub>🎞️ <b>F35-B</b></sub></td>
+    <td align="center" valign="middle"><img src="assets/work_02.gif" width="400" alt="Biped Rig" /><br/><sub>🦴 <b>Biped Rig</b></sub></td>
   </tr>
 </table>
 
