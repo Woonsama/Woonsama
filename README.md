@@ -18,6 +18,23 @@
 
 <br/>
 
+<img src="assets/banner_hire.svg" width="100%" alt="open to work" />
+
+<br/>
+
+<div align="center">
+
+| 🎓 Graduation | 🎯 Target Role | 📍 Location | 🗣️ Languages |
+|:---:|:---:|:---:|:---:|
+| Class of 2029 | Technical Artist | Japan · USA | Korean · Japanese · English |
+
+<a href="https://vivivit.com/hotbar"><img src="https://img.shields.io/badge/Portfolio-FFB88C?style=for-the-badge&logo=googlechrome&logoColor=1a1033" alt="Portfolio" /></a>
+<a href="mailto:kws4510@naver.com"><img src="https://img.shields.io/badge/Email-7B2CBF?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
+
+</div>
+
+<br/>
+
 <img src="assets/banner_about.svg" width="100%" alt="about" />
 
 <br/>

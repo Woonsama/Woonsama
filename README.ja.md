@@ -18,6 +18,23 @@
 
 <br/>
 
+<img src="assets/banner_hire.svg" width="100%" alt="open to work" />
+
+<br/>
+
+<div align="center">
+
+| 🎓 卒業 | 🎯 希望職種 | 📍 希望勤務地 | 🗣️ 言語 |
+|:---:|:---:|:---:|:---:|
+| 2029年卒業予定 | Technical Artist | 日本 · アメリカ | 韓国語 · 日本語 · 英語 |
+
+<a href="https://vivivit.com/hotbar"><img src="https://img.shields.io/badge/%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA-FFB88C?style=for-the-badge&logo=googlechrome&logoColor=1a1033" alt="ポートフォリオ" /></a>
+<a href="mailto:kws4510@naver.com"><img src="https://img.shields.io/badge/%E3%83%A1%E3%83%BC%E3%83%AB-7B2CBF?style=for-the-badge&logo=maildotru&logoColor=white" alt="メール" /></a>
+
+</div>
+
+<br/>
+
 <img src="assets/banner_about.svg" width="100%" alt="about" />
 
 <br/>

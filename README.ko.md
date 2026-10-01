@@ -18,6 +18,23 @@
 
 <br/>
 
+<img src="assets/banner_hire.svg" width="100%" alt="open to work" />
+
+<br/>
+
+<div align="center">
+
+| 🎓 졸업 | 🎯 희망 직무 | 📍 희망 근무지 | 🗣️ 언어 |
+|:---:|:---:|:---:|:---:|
+| 2029년 졸업 예정 | Technical Artist | 일본 · 미국 | 한국어 · 일본어 · 영어 |
+
+<a href="https://vivivit.com/hotbar"><img src="https://img.shields.io/badge/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-FFB88C?style=for-the-badge&logo=googlechrome&logoColor=1a1033" alt="포트폴리오" /></a>
+<a href="mailto:kws4510@naver.com"><img src="https://img.shields.io/badge/%EC%9D%B4%EB%A9%94%EC%9D%BC-7B2CBF?style=for-the-badge&logo=maildotru&logoColor=white" alt="이메일" /></a>
+
+</div>
+
+<br/>
+
 <img src="assets/banner_about.svg" width="100%" alt="about" />
 
 <br/>
