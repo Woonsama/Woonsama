@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,12,20,24&height=260&section=header&text=Woonsama&fontSize=78&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Technical%20Artist%20%C2%B7%20Rigging&descAlignY=66&descSize=22" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=250&section=header&text=Woonsama&fontSize=76&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Technical%20Artist%20%C2%B7%20Rigging&descAlignY=66&descSize=22" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1300&color=FFB88C&center=true&vCenter=true&width=640&lines=Sculpt+%C2%B7+Rig+%C2%B7+Paint+%C2%B7+Shade+%C2%B7+Ship;Rigging+%26+Technical+Art+with+Maya;Where+art+meets+code;Art+%2B+Code+%3D+Real-time+Magic" alt="typing" />
@@ -19,7 +19,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=46&section=header&text=ABOUT%20ME&fontSize=20&fontColor=ffffff&fontAlign=50" width="100%" alt="about" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7B2CBF&height=46&section=header&text=ABOUT%20ME&fontSize=20&fontColor=ffffff&fontAlign=50" width="100%" alt="about" />
 
 <br/>
 
@@ -45,21 +45,21 @@ float3 Woonsama(float2 uv)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=46&section=header&text=PIPELINE&fontSize=20&fontColor=ffffff&fontAlign=50" width="100%" alt="pipeline" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7B2CBF&height=46&section=header&text=PIPELINE&fontSize=20&fontColor=ffffff&fontAlign=50" width="100%" alt="pipeline" />
 
 <br/>
 
 <div align="center">
 
-| 🗿 Sculpt | ➜ | 🧩 Model | ➜ | 🦴 Rig | ➜ | 🎨 Texture | ➜ | ✨ Shader | ➜ | 🎮 Engine | ➜ | 🎬 Final |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| ZBrush | | Maya | | **Maya** | | Substance | | HLSL | | Unity / UE5 | | AE / Premiere |
+🗿 **Sculpt** ➜ 🧩 **Model** ➜ 🦴 **Rig** ➜ 🎨 **Texture** ➜ ✨ **Shader** ➜ 🎮 **Engine** ➜ 🎬 **Final**
+
+<sub>ZBrush · Maya · **Maya** · Substance · HLSL · Unity / UE5 · AE / Premiere</sub>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=46&section=header&text=RIGGING&fontSize=20&fontColor=ffffff&fontAlign=50" width="100%" alt="rigging" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7B2CBF&height=46&section=header&text=RIGGING&fontSize=20&fontColor=ffffff&fontAlign=50" width="100%" alt="rigging" />
 
 <br/>
 
@@ -77,7 +77,7 @@ float3 Woonsama(float2 uv)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=46&section=header&text=GALLERY&fontSize=20&fontColor=ffffff&fontAlign=50" width="100%" alt="gallery" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7B2CBF&height=46&section=header&text=GALLERY&fontSize=20&fontColor=ffffff&fontAlign=50" width="100%" alt="gallery" />
 
 <br/>
 
@@ -108,7 +108,7 @@ float3 Woonsama(float2 uv)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=46&section=header&text=TOOLBOX&fontSize=20&fontColor=ffffff&fontAlign=50" width="100%" alt="toolbox" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7B2CBF&height=46&section=header&text=TOOLBOX&fontSize=20&fontColor=ffffff&fontAlign=50" width="100%" alt="toolbox" />
 
 <br/>
 
@@ -140,7 +140,7 @@ float3 Woonsama(float2 uv)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=46&section=header&text=STATS&fontSize=20&fontColor=ffffff&fontAlign=50" width="100%" alt="stats" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7B2CBF&height=46&section=header&text=STATS&fontSize=20&fontColor=ffffff&fontAlign=50" width="100%" alt="stats" />
 
 <br/>
 
@@ -155,6 +155,6 @@ float3 Woonsama(float2 uv)
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12,6&height=140&section=footer&text=Pixels%20are%20my%20canvas%2C%20code%20is%20my%20brush.&fontSize=18&fontColor=ffffff&fontAlignY=68" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=140&section=footer&text=Pixels%20are%20my%20canvas%2C%20code%20is%20my%20brush.&fontSize=18&fontColor=ffffff&fontAlignY=68" alt="footer" />
 
 </div>
