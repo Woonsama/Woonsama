@@ -103,9 +103,12 @@ float3 Woonsama(float2 uv)
 </table>
 -->
 
-<img src="assets/work_01.gif" width="560" alt="work 01" />
-
-<sub>🎞️ F35-B</sub>
+<table>
+  <tr>
+    <td align="center" valign="middle"><img src="assets/work_01.gif" width="420" alt="F35-B" /><br/><sub>🎞️ <b>F35-B</b></sub></td>
+    <td align="center" valign="middle"><img src="assets/work_02.gif" width="330" alt="EVE Dummy rig test" /><br/><sub>🦴 <b>EVE Dummy</b> · Maya Rig (FK / IK)</sub></td>
+  </tr>
+</table>
 
 ![More Coming Soon](https://img.shields.io/badge/More-Coming_Soon-C77DFF?style=for-the-badge)
 
