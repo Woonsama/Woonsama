@@ -46,7 +46,7 @@ float3 Woonsama(float2 uv)
 
 - 🌀 **Houdini**를 이용한 프로시저럴 개발
 - ✨ **Unity · Unreal · DirectX**를 이용한 HLSL 셰이더 제작
-- 🦴 **Maya**를 이용한 리깅 및 스키닝, 애니메이션 작업
+- 🦴 **Maya**를 이용한 리깅 및 스키닝(ngSkinTools 활용), 애니메이션 작업
 - 🐍 **Python**을 이용한 Rig 툴 제작
 - 💻 **프로그래밍** — C++, C#
 - 📫 **Contact** — kws4510@naver.com
@@ -77,7 +77,7 @@ float3 Woonsama(float2 uv)
 
 | 🦴 Skeleton | 🎛️ Controls | 🪢 Skinning | 🔁 Deform |
 |:---:|:---:|:---:|:---:|
-| Joint 구조 설계 | FK / IK 컨트롤러 | Skin Weight 페인팅 | Blend Shape · 보정 셰이프 |
+| Joint 구조 설계 | FK / IK 컨트롤러 | ngSkinTools 기반 스킨 웨이트 작업 | Blend Shape · 보정 셰이프 |
 
 </div>
 

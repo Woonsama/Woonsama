@@ -46,7 +46,7 @@ float3 Woonsama(float2 uv)
 
 - 🌀 **Procedural content** with Houdini
 - ✨ **HLSL shader development** with Unity · Unreal · DirectX
-- 🦴 **Rigging, skinning & animation** with Maya
+- 🦴 **Rigging, skinning & animation** with Maya (skinning with ngSkinTools)
 - 🐍 **Rig tool development** with Python
 - 💻 **Programming** — C++, C#
 - 📫 **Contact** — kws4510@naver.com
@@ -77,7 +77,7 @@ float3 Woonsama(float2 uv)
 
 | 🦴 Skeleton | 🎛️ Controls | 🪢 Skinning | 🔁 Deform |
 |:---:|:---:|:---:|:---:|
-| Joint structure design | FK / IK controls | Skin weight painting | Blend shapes · corrective shapes |
+| Joint structure design | FK / IK controls | Skin weighting with ngSkinTools | Blend shapes · corrective shapes |
 
 </div>
 
