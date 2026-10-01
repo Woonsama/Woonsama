@@ -6,7 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1300&color=FFB88C&center=true&vCenter=true&width=640&lines=Sculpt+%C2%B7+Rig+%C2%B7+Paint+%C2%B7+Shade+%C2%B7+Ship;Rigging+%26+Technical+Art+with+Maya;Where+art+meets+code;Art+%2B+Code+%3D+Real-time+Magic" alt="typing" />
 </a>
 
-<sub>**English** · [한국어](README.ko.md) · [日本語](README.ja.md)</sub>
+<p align="center">
+  <img src="https://img.shields.io/badge/%20%20English%20%20-FFB88C?style=for-the-badge&logo=googletranslate&logoColor=1a1033&labelColor=FFB88C" alt="English" />
+  <a href="README.ko.md"><img src="https://img.shields.io/badge/%20%20%ED%95%9C%EA%B5%AD%EC%96%B4%20%20-2a1f45?style=for-the-badge&logo=googletranslate&logoColor=C77DFF&labelColor=2a1f45" alt="한국어" /></a>
+  <a href="README.ja.md"><img src="https://img.shields.io/badge/%20%20%E6%97%A5%E6%9C%AC%E8%AA%9E%20%20-2a1f45?style=for-the-badge&logo=googletranslate&logoColor=C77DFF&labelColor=2a1f45" alt="日本語" /></a>
+</p>
 
 <br/>
 
