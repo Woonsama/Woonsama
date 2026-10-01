@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 56" width="1000" height="56">
+<defs>
+<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#5b1fa0"/><stop offset=".55" stop-color="#9d4edd"/><stop offset="1" stop-color="#FF7A90"/></linearGradient>
+<linearGradient id="s" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".35"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="c"><rect width="1000" height="56" rx="12"/></clipPath>
+</defs>
+<g clip-path="url(#c)"><rect width="1000" height="56" fill="url(#g)"/>
+<rect x="-240" width="200" height="56" fill="url(#s)"><animate attributeName="x" from="-240" to="1040" dur="5s" repeatCount="indefinite"/></rect></g>
+<g stroke="#fff" fill="none" stroke-width="2"><circle cx="34" cy="28" r="7"/><line x1="41" y1="28" x2="68" y2="28" stroke-opacity=".7"/><circle cx="76" cy="28" r="4.5"/></g>
+<circle cx="34" cy="28" r="2.5" fill="#fff"><animate attributeName="r" values="2.5;4;2.5" dur="2s" repeatCount="indefinite"/></circle>
+<text x="104" y="35" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="21" font-weight="700" letter-spacing="6" fill="#fff">PIPELINE</text>
+</svg>

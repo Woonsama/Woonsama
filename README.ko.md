@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=250&section=header&text=Woonsama&fontSize=76&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Technical%20Artist%20%C2%B7%20Rigging&descAlignY=66&descSize=22" alt="header" />
+<img src="assets/header.svg" width="100%" alt="Woonsama - Technical Artist" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1300&color=FFB88C&center=true&vCenter=true&width=640&lines=Sculpt+%C2%B7+Rig+%C2%B7+Paint+%C2%B7+Shade+%C2%B7+Ship;Rigging+%26+Technical+Art+with+Maya;Where+art+meets+code;Art+%2B+Code+%3D+Real-time+Magic" alt="typing" />
@@ -14,18 +14,11 @@
 
 <br/>
 
-![](https://img.shields.io/badge/%20%20%20%20%20%20-1a1033?style=for-the-badge)
-![](https://img.shields.io/badge/%20%20%20%20%20%20-7B2CBF?style=for-the-badge)
-![](https://img.shields.io/badge/%20%20%20%20%20%20-C77DFF?style=for-the-badge)
-![](https://img.shields.io/badge/%20%20%20%20%20%20-FF7A90?style=for-the-badge)
-![](https://img.shields.io/badge/%20%20%20%20%20%20-FFB88C?style=for-the-badge)
-![](https://img.shields.io/badge/%20%20%20%20%20%20-5EEAD4?style=for-the-badge)
-
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7B2CBF&height=46&section=header&text=ABOUT%20ME&fontSize=20&fontColor=ffffff&fontAlign=50" width="100%" alt="about" />
+<img src="assets/banner_about.svg" width="100%" alt="about" />
 
 <br/>
 
@@ -53,25 +46,25 @@ float3 Woonsama(float2 uv)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7B2CBF&height=46&section=header&text=PIPELINE&fontSize=20&fontColor=ffffff&fontAlign=50" width="100%" alt="pipeline" />
+<img src="assets/banner_pipeline.svg" width="100%" alt="pipeline" />
 
 <br/>
 
 <div align="center">
 
-🗿 **Sculpt** ➜ 🧩 **Model** ➜ 🦴 **Rig** ➜ 🎨 **Texture** ➜ ✨ **Shader** ➜ 🎮 **Engine** ➜ 🎬 **Final**
-
-<sub>ZBrush · Maya · **Maya** · Substance · HLSL · Unity / UE5 · AE / Premiere</sub>
+<img src="assets/pipeline.svg" width="100%" alt="Pipeline: Sculpt, Model, Rig, Texture, Shader, Engine, Final" />
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7B2CBF&height=46&section=header&text=RIGGING&fontSize=20&fontColor=ffffff&fontAlign=50" width="100%" alt="rigging" />
+<img src="assets/banner_rigging.svg" width="100%" alt="rigging" />
 
 <br/>
 
 <div align="center">
+
+<img src="assets/rig.svg" width="720" alt="Rig skin weight preview" />
 
 ![Maya Rigging](https://img.shields.io/badge/Maya-Rigging-37A5CC?style=for-the-badge&logo=autodeskmaya&logoColor=white)
 
@@ -85,7 +78,7 @@ float3 Woonsama(float2 uv)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7B2CBF&height=46&section=header&text=GALLERY&fontSize=20&fontColor=ffffff&fontAlign=50" width="100%" alt="gallery" />
+<img src="assets/banner_gallery.svg" width="100%" alt="gallery" />
 
 <br/>
 
@@ -120,7 +113,7 @@ float3 Woonsama(float2 uv)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7B2CBF&height=46&section=header&text=TOOLBOX&fontSize=20&fontColor=ffffff&fontAlign=50" width="100%" alt="toolbox" />
+<img src="assets/banner_toolbox.svg" width="100%" alt="toolbox" />
 
 <br/>
 
@@ -161,6 +154,6 @@ float3 Woonsama(float2 uv)
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=140&section=footer&text=Pixels%20are%20my%20canvas%2C%20code%20is%20my%20brush.&fontSize=18&fontColor=ffffff&fontAlignY=68" alt="footer" />
+<img src="assets/footer.svg" width="100%" alt="footer" />
 
 </div>

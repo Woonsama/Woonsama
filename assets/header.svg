@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d0a1f"/><stop offset="1" stop-color="#1f1147"/></linearGradient>
+<linearGradient id="nm" x1="0" x2="1"><stop offset="0" stop-color="#FFB88C"/><stop offset=".55" stop-color="#FF7A90"/><stop offset="1" stop-color="#C77DFF"/></linearGradient>
+<filter id="bl" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="45"/></filter>
+<pattern id="gr" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#C77DFF" stroke-opacity=".10"/></pattern>
+<clipPath id="cp"><rect width="1000" height="300" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#cp)">
+<rect width="1000" height="300" fill="url(#bg)"/>
+<g filter="url(#bl)"><circle r="120" fill="#7B2CBF" opacity="0.65"><animate attributeName="cx" values="180;420;180" dur="13s" repeatCount="indefinite"/><animate attributeName="cy" values="70;230;70" dur="10.4s" repeatCount="indefinite"/></circle><circle r="100" fill="#FF7A90" opacity="0.4"><animate attributeName="cx" values="820;560;820" dur="11s" repeatCount="indefinite"/><animate attributeName="cy" values="240;60;240" dur="8.8s" repeatCount="indefinite"/></circle><circle r="90" fill="#5EEAD4" opacity="0.28"><animate attributeName="cx" values="600;880;600" dur="15s" repeatCount="indefinite"/><animate attributeName="cy" values="40;200;40" dur="12.0s" repeatCount="indefinite"/></circle><circle r="80" fill="#C77DFF" opacity="0.45"><animate attributeName="cx" values="60;300;60" dur="10s" repeatCount="indefinite"/><animate attributeName="cy" values="250;120;250" dur="8.0s" repeatCount="indefinite"/></circle></g>
+<rect x="-40" y="-40" width="1080" height="380" fill="url(#gr)"><animateTransform attributeName="transform" type="translate" values="0 0;40 40" dur="6s" repeatCount="indefinite"/></rect>
+<circle cx="130" cy="40" r="1.6" fill="#fff"><animate attributeName="opacity" values="0;1;0" dur="3s" begin="0s" repeatCount="indefinite"/></circle><circle cx="420" cy="60" r="1.6" fill="#fff"><animate attributeName="opacity" values="0;1;0" dur="4s" begin="1s" repeatCount="indefinite"/></circle><circle cx="520" cy="250" r="1.6" fill="#fff"><animate attributeName="opacity" values="0;1;0" dur="3.5s" begin="0.5s" repeatCount="indefinite"/></circle><circle cx="930" cy="50" r="1.6" fill="#fff"><animate attributeName="opacity" values="0;1;0" dur="4s" begin="2s" repeatCount="indefinite"/></circle><circle cx="880" cy="150" r="1.6" fill="#fff"><animate attributeName="opacity" values="0;1;0" dur="3s" begin="1.2s" repeatCount="indefinite"/></circle><circle cx="360" cy="270" r="1.6" fill="#fff"><animate attributeName="opacity" values="0;1;0" dur="4.5s" begin="2.2s" repeatCount="indefinite"/></circle><circle cx="620" cy="30" r="1.6" fill="#fff"><animate attributeName="opacity" values="0;1;0" dur="3.2s" begin="0.8s" repeatCount="indefinite"/></circle>
+
+<g transform="translate(700 215)">
+ <g><animateTransform attributeName="transform" type="rotate" values="-62;-28;-62" keyTimes="0;.5;1" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1" dur="5s" begin="0s" repeatCount="indefinite"/>
+  <polygon points="0,0 15.4,-9 110,0 15.4,9" fill="#ffffff" fill-opacity=".9" stroke="#ffffff" stroke-opacity=".9" stroke-width="1.2"/><circle r="10" fill="#0d0a1f" stroke="#5EEAD4" stroke-width="2.5"/><circle r="22" fill="none" stroke="#5EEAD4" stroke-opacity=".5" stroke-dasharray="3 5"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="14s" repeatCount="indefinite"/></circle>
+  <g transform="translate(110 0)"><g><animateTransform attributeName="transform" type="rotate" values="10;-55;10" keyTimes="0;.5;1" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1" dur="5s" begin="0.25s" repeatCount="indefinite"/>
+   <polygon points="0,0 13.3,-9 95,0 13.3,9" fill="#ffffff" fill-opacity=".9" stroke="#ffffff" stroke-opacity=".9" stroke-width="1.2"/><circle r="9" fill="#0d0a1f" stroke="#FF7A90" stroke-width="2.5"/>
+   <g transform="translate(95 0)"><g><animateTransform attributeName="transform" type="rotate" values="-5;35;-5" keyTimes="0;.5;1" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1" dur="5s" begin="0.5s" repeatCount="indefinite"/>
+    <polygon points="0,0 9.8,-9 70,0 9.8,9" fill="#ffffff" fill-opacity=".9" stroke="#ffffff" stroke-opacity=".9" stroke-width="1.2"/><circle r="8" fill="#0d0a1f" stroke="#FFB88C" stroke-width="2.5"/>
+    <g transform="translate(70 0)"><circle r="7" fill="#FFB88C"/><rect x="-14" y="-14" width="28" height="28" fill="none" stroke="#FFB88C" stroke-opacity=".7" stroke-width="1.5" rx="3"/></g>
+   </g></g>
+  </g></g>
+ </g>
+</g>
+<text x="60" y="150" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="86" font-weight="800" fill="url(#nm)">Woonsama<animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/></text>
+<text x="64" y="192" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="19" letter-spacing="7" fill="#e6d9ff">TECHNICAL ARTIST  ·  RIGGING</text>
+<text x="64" y="228" font-family="'Fira Code',Consolas,monospace" font-size="14" fill="#C77DFF">// sculpt · rig · paint · shade · ship</text>
+<rect x="64" y="262" width="26" height="10" rx="5" fill="#1a1033"/><rect x="98" y="262" width="26" height="10" rx="5" fill="#7B2CBF"/><rect x="132" y="262" width="26" height="10" rx="5" fill="#C77DFF"/><rect x="166" y="262" width="26" height="10" rx="5" fill="#FF7A90"/><rect x="200" y="262" width="26" height="10" rx="5" fill="#FFB88C"/><rect x="234" y="262" width="26" height="10" rx="5" fill="#5EEAD4"/>
+</g>
+<rect x="1" y="1" width="998" height="298" rx="17" fill="none" stroke="#C77DFF" stroke-opacity=".35"/>
+</svg>
