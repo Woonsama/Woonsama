@@ -108,6 +108,9 @@ float3 Woonsama(float2 uv)
     <td align="center" valign="middle"><img src="assets/work_01.gif" width="400" alt="F35-B" /><br/><sub>🎞️ <b>F35-B</b></sub></td>
     <td align="center" valign="middle"><img src="assets/biped_rig.gif" width="400" alt="Biped Rig" /><br/><sub>🦴 <b>Biped Rig</b></sub></td>
   </tr>
+  <tr>
+    <td align="center" valign="middle" colspan="2"><img src="assets/jiggle_deformer.gif" width="520" alt="Jiggle Deformer" /><br/><sub>🫧 <b>Jiggle Deformer</b></sub></td>
+  </tr>
 </table>
 
 ![More Coming Soon](https://img.shields.io/badge/More-Coming_Soon-C77DFF?style=for-the-badge)
