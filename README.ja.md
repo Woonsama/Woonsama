@@ -42,11 +42,13 @@ float3 Woonsama(float2 uv)
 > *アーティストの感性とプログラマーの論理をつなぐ Technical Artist。*
 > *彫り上げたキャラクターに骨と動きを与え、シェーダーで彩り、エンジン内で仕上げます。*
 
-- 🦴 **Rig** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— **Maya リギング**でキャラクターが自然に動く骨格とコントローラーを作り
-- 🗿 **Sculpt** &nbsp;— Maya · ZBrush で形を作り
-- 🎨 **Paint** &nbsp;&nbsp;&nbsp;— Substance 3D Painter · Designer で質感を与え
-- ✨ **Shade** &nbsp;&nbsp;— Unity · Unreal 5 · DirectX でルックとエフェクトを実装し
-- 🎬 **Motion** — After Effects · Premiere Pro で映像として仕上げます
+**主な技術**
+
+- 🌀 **Houdini** によるプロシージャル開発
+- ✨ **Unity · Unreal · DirectX** での HLSL シェーダー制作
+- 🦴 **Maya** でのリギング、スキニング、アニメーション作業
+- 🐍 **Python** によるリグツール制作
+- 💻 **プログラミング** — C++, C#
 - 📫 **Contact** — kws4510@naver.com
 
 <br/>
@@ -141,6 +143,13 @@ float3 Woonsama(float2 uv)
 
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+
+**Procedural / Programming**
+
+![Houdini](https://img.shields.io/badge/Houdini-FF4713?style=for-the-badge&logo=houdini&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 
 **AI**
 

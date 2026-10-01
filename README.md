@@ -42,11 +42,13 @@ float3 Woonsama(float2 uv)
 > *A Technical Artist bridging an artist's eye and a programmer's logic.*
 > *I give sculpted characters bones and motion, paint them with shaders, and finish them inside the engine.*
 
-- 🦴 **Rig** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— building skeletons and controls that make characters move naturally with **Maya rigging**
-- 🗿 **Sculpt** &nbsp;— shaping forms in Maya · ZBrush
-- 🎨 **Paint** &nbsp;&nbsp;&nbsp;— adding texture with Substance 3D Painter · Designer
-- ✨ **Shade** &nbsp;&nbsp;— building looks and effects in Unity · Unreal 5 · DirectX
-- 🎬 **Motion** — finishing as video with After Effects · Premiere Pro
+**Key Skills**
+
+- 🌀 **Procedural content** with Houdini
+- ✨ **HLSL shader development** with Unity · Unreal · DirectX
+- 🦴 **Rigging, skinning & animation** with Maya
+- 🐍 **Rig tool development** with Python
+- 💻 **Programming** — C++, C#
 - 📫 **Contact** — kws4510@naver.com
 
 <br/>
@@ -141,6 +143,13 @@ float3 Woonsama(float2 uv)
 
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+
+**Procedural / Programming**
+
+![Houdini](https://img.shields.io/badge/Houdini-FF4713?style=for-the-badge&logo=houdini&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 
 **AI**
 
