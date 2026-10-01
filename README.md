@@ -140,19 +140,6 @@ float3 Woonsama(float2 uv)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7B2CBF&height=46&section=header&text=STATS&fontSize=20&fontColor=ffffff&fontAlign=50" width="100%" alt="stats" />
-
-<br/>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Woonsama&show_icons=true&hide_border=true&bg_color=0d1117&title_color=C77DFF&icon_color=FF7A90&text_color=e6d9ff&ring_color=FFB88C" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Woonsama&layout=compact&hide_border=true&bg_color=0d1117&title_color=C77DFF&text_color=e6d9ff" alt="langs" />
-
-</div>
-
-<br/>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=140&section=footer&text=Pixels%20are%20my%20canvas%2C%20code%20is%20my%20brush.&fontSize=18&fontColor=ffffff&fontAlignY=68" alt="footer" />
