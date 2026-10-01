@@ -126,7 +126,8 @@ float3 Woonsama(float2 uv)
     <td align="center" valign="middle"><img src="assets/biped_rig.gif" width="400" alt="Biped Rig" /><br/><sub>🦴 <b>Biped Rig</b></sub></td>
   </tr>
   <tr>
-    <td align="center" valign="middle" colspan="2"><img src="assets/jiggle_deformer.gif" width="520" alt="Jiggle Deformer" /><br/><sub>🫧 <b>Jiggle Deformer</b></sub></td>
+    <td align="center" valign="middle"><img src="assets/jiggle_deformer.gif" width="400" alt="Jiggle Deformer" /><br/><sub>🫧 <b>Jiggle Deformer</b></sub></td>
+    <td align="center" valign="middle"><img src="assets/stochastic_tiling.gif" width="400" alt="Stochastic Tiling Shader" /><br/><sub>✨ <b>Stochastic Tiling Shader</b></sub></td>
   </tr>
 </table>
 
