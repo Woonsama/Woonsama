@@ -102,7 +102,11 @@ float3 Woonsama(float2 uv)
 </table>
 -->
 
-![Coming Soon](https://img.shields.io/badge/Gallery-Coming_Soon-C77DFF?style=for-the-badge)
+<img src="assets/work_01.gif" width="560" alt="work 01" />
+
+<sub>🎞️ Motion Work</sub>
+
+![More Coming Soon](https://img.shields.io/badge/More-Coming_Soon-C77DFF?style=for-the-badge)
 
 </div>
 
