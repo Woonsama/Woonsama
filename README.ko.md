@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1300&color=FFB88C&center=true&vCenter=true&width=640&lines=Sculpt+%C2%B7+Rig+%C2%B7+Paint+%C2%B7+Shade+%C2%B7+Ship;Rigging+%26+Technical+Art+with+Maya;Where+art+meets+code;Art+%2B+Code+%3D+Real-time+Magic" alt="typing" />
 </a>
 
-<sub>**English** · [한국어](README.ko.md) · [日本語](README.ja.md)</sub>
+<sub>[English](README.md) · **한국어** · [日本語](README.ja.md)</sub>
 
 <br/>
 
@@ -29,20 +29,20 @@
 // Woonsama.hlsl
 float3 Woonsama(float2 uv)
 {
-    float3 art  = Artist(uv);      // an eye for look, color & direction
-    float3 tech = Programmer(uv);  // the hands that build it in real time
-    return lerp(art, tech, 0.5);   // somewhere in between
+    float3 art  = Artist(uv);      // 룩, 컬러, 연출을 보는 눈
+    float3 tech = Programmer(uv);  // 그걸 실시간으로 구현하는 손
+    return lerp(art, tech, 0.5);   // 둘 사이 어딘가에 있는 사람
 }
 ```
 
-> *A Technical Artist bridging an artist's eye and a programmer's logic.*
-> *I give sculpted characters bones and motion, paint them with shaders, and finish them inside the engine.*
+> *아티스트의 감각과 개발자의 논리를 잇는 Technical Artist.*
+> *조각한 캐릭터에 뼈대와 움직임을 불어넣고, 셰이더로 칠해 엔진 안에서 완성합니다.*
 
-- 🦴 **Rig** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— building skeletons and controls that make characters move naturally with **Maya rigging**
-- 🗿 **Sculpt** &nbsp;— shaping forms in Maya · ZBrush
-- 🎨 **Paint** &nbsp;&nbsp;&nbsp;— adding texture with Substance 3D Painter · Designer
-- ✨ **Shade** &nbsp;&nbsp;— building looks and effects in Unity · Unreal 5 · DirectX
-- 🎬 **Motion** — finishing as video with After Effects · Premiere Pro
+- 🦴 **Rig** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— **Maya 리깅**으로 캐릭터가 자연스럽게 움직이는 뼈대와 컨트롤러를 만들고
+- 🗿 **Sculpt** &nbsp;— Maya · ZBrush 로 형태를 만들고
+- 🎨 **Paint** &nbsp;&nbsp;&nbsp;— Substance 3D Painter · Designer 로 질감을 입히고
+- ✨ **Shade** &nbsp;&nbsp;— Unity · Unreal5 · DirectX 로 룩과 이펙트를 구현하고
+- 🎬 **Motion** — After Effects · Premiere Pro 로 영상으로 마무리
 - 📫 **Contact** — kws4510@naver.com
 
 <br/>
@@ -71,11 +71,11 @@ float3 Woonsama(float2 uv)
 
 | 🦴 Skeleton | 🎛️ Controls | 🪢 Skinning | 🔁 Deform |
 |:---:|:---:|:---:|:---:|
-| Joint structure design | FK / IK controls | Skin weight painting | Blend shapes · corrective shapes |
+| Joint 구조 설계 | FK / IK 컨트롤러 | Skin Weight 페인팅 | Blend Shape · 보정 셰이프 |
 
 </div>
 
-> I model with rigging in mind from the start, so characters look their best *in motion*.
+> 캐릭터가 *움직였을 때* 가장 예뻐 보이도록, 모델링 단계부터 리깅을 염두에 두고 작업합니다.
 
 <br/>
 
@@ -86,9 +86,9 @@ float3 Woonsama(float2 uv)
 <div align="center">
 
 <!--
-  Gallery how-to (uncomment this when your work is ready)
-  1) Upload images to the assets/ folder. (e.g. assets/rig_01.gif)
-  2) Just change the file names in the table below.
+  갤러리 사용법 (작업물이 준비되면 이 주석을 풀어서 사용하세요)
+  1) 이미지는 저장소의 assets/ 폴더에 올립니다. (예: assets/rig_01.gif)
+  2) 아래 표의 파일명만 바꾸면 됩니다.
 
 <table>
   <tr>
